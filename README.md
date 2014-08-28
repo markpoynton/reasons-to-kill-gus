@@ -1,9 +1,7 @@
 TODO: update list of reasons to kill Gus
 
 
-
-
-
+* Why not?
 
 
 
